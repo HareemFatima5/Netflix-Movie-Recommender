@@ -13,7 +13,7 @@ Discover your next binge worthy obsession with this stylish movie and series rec
 
 ## Streamlit App
 
-![demo](https://via.placeholder.com/800x400.png?text=Demo+Screenshot)
+![demo]([https://via.placeholder.com/800x400.png?text=Demo+Screenshot](https://github.com/HareemFatima5/Netflix-Movie-Recommender/blob/main/Netflix%20Movie%20Recommender.PNG))
 
 
 
