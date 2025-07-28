@@ -46,5 +46,6 @@ The app uses a dataset named `NetflixDataset.csv` containing columns like:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/netflix-recommender.git
-   cd netflix-recommender
+      git clone https://github.com/HareemFatima5/Netflix-Movie-Recommender.git
+      cd Netflix-Movie-Recommender
+
