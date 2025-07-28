@@ -6,7 +6,7 @@ Discover your next binge worthy obsession with this stylish movie and series rec
 
 - Search any Netflix movie or series
 - Intelligent recommendations using TF-IDF + Cosine Similarity
-- Beautiful Netflix-inspired dark theme with animations
+- Beautiful Netflix inspired dark theme with animations
 - IMDb rating, genre, and summary for each suggestion
 - Quick "More Info" Google link for every recommendation
 
